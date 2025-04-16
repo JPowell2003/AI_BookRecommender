@@ -11,6 +11,9 @@ Currently in early development. The structure is in place, and the logic is to b
 - Streamlit interface for book selection and results display
 - Clean, modular codebase with a possibility to expand to use a Neural Network
 
+## Data source
+Book metadata is retrieved using the free and open [Open Library API](https://openlibrary.org/developers/api), which provides real-time access to book titles, descriptions, and subjects.
+
 ## Tools & Libraries
 
 - Python
