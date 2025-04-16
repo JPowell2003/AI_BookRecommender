@@ -2,7 +2,7 @@
 A content-based book recommendation engine built in Python. The goal is to recommend similar books using natural language processing techniques and present the results in a simple user interface built with Streamlit.
 
 ## Project status
-Currently in early development — structure is in place, logic to be implemented.
+Currently in early development. The structure is in place, and the logic is to be implemented.
 
 ## Planned Features
 
